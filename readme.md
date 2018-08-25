@@ -1,4 +1,4 @@
-# watershed
+# naive implementation of watershed algorithm with matlab
 
 # the result  is almost no difference with matlab API.
 
