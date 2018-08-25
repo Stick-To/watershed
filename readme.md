@@ -3,18 +3,19 @@
 # the result  is almost no difference with matlab API.
 
 
-myrgb2gray.m       rgb转灰度
+myrgb2gray.m         rgb to gray
 
-mygradient.m       求梯度函数函数
+mygradient.m         get gradient
 
-myblur.m           图像模糊函数 
+myblur.m              image blur 
 
-mywatershed.m     分水岭算法函数
+mywatershed.m         watershed function body
 
-sepcor.m         特殊膨胀函数
+sepcor.m          special dilate function used by watershed function
 
-regrow.m      区域生长法函数
+regrow.m         region growing algorithm
+    
 
-get_waterline.m   处理图像，获取分水岭，保存为.mat
+get_waterline.m    save result as .mat
 
-show_water_line.m   显示分水岭
+show_water_line.m   show result as image
