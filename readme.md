@@ -1,6 +1,6 @@
 # naive implementation of watershed algorithm with matlab
 
-# the result  is almost no difference with matlab API.
+# the result  is almost have no difference with matlab API.
 
 
 myrgb2gray.m         rgb to gray
