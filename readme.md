@@ -4,19 +4,19 @@
 
 the implmention follow Digital Image Processing_3ed_Gonzalez step by step
 
-myrgb2gray.m               rgb to gray
+myrgb2gray.m --->              rgb to gray
 
-mygradient.m               get gradient
+mygradient.m --->               get gradient
 
-myblur.m                   image blur 
+myblur.m --->                   image blur 
 
-mywatershed.m              watershed function body
+mywatershed.m  --->            watershed function body
 
-sepcor.m                   special dilate function used by watershed function
+sepcor.m --->                   special dilate function used by watershed function
 
-regrow.m                   region growing algorithm
+regrow.m --->                   region growing algorithm
     
 
-get_waterline.m            save result as .mat
+get_waterline.m --->            save result as .mat
 
-show_water_line.m          show result as image
+show_water_line.m --->          show result as image
